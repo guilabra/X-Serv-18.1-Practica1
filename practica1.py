@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Guillermo Labrador Vázquez
+Guillermo Labrador Vazquez
 Práctica 1
 """
 import urllib.parse
